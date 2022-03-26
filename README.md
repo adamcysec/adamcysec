@@ -10,7 +10,12 @@ I currently work as a Cyber Security Analyst!
 
 I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and Security News happening world wide.  
 
-I use scripting languages :snake: Python and PowerShell to help automate repetitive tasks.
+I use scripting languages Python and PowerShell to help automate repetitive tasks.
+
+## My Stuff:
+- I write articles on my [blog](https://adamcysec.github.io/blog/
+- Im currently improving my :snake: Python skills
+- 
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
