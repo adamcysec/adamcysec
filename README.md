@@ -5,6 +5,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AdamCySec)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamcysec.474408138.issue.1)
 
+### What I Do
+I currently work as a Cyber Security Analyst! 
+
+I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and security news happening world wide.  
+
+
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 
