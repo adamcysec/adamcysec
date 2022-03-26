@@ -10,7 +10,7 @@ I currently work as a Cyber Security Analyst!
 
 I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and Security News happening world wide.  
 
-I use :snake: Python and 
+I use scripting languages :snake: Python and PowerShell to help automate repetitive tasks.
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
