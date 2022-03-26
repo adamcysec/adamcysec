@@ -1,6 +1,6 @@
 ### Well hello there, my name is <a href="https://adamcysec.github.io/" target="_blank">Adam Ponce</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
+
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://adamcysec.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adamponce/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AdamCySec)
@@ -16,7 +16,7 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 **My Stuff:**
 - 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
 - :snake: Im currently improving my Python skills
-- Im top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec)
+- Im top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec) ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
