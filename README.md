@@ -6,7 +6,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamcysec.474408138)
 
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
