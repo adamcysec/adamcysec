@@ -13,8 +13,8 @@ I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, V
 I use scripting languages Python and PowerShell to help automate repetitive tasks.
 
 ## My Stuff:
-- I write articles on my [blog](https://adamcysec.github.io/blog/)
-- Im currently improving my :snake: Python skills
+- 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
+- :snake: Im currently improving my Python skills
 - 
 
 📊 **This Week I Spent My Time On:**
