@@ -3,6 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://adamcysec.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adamponce/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AdamCySec)
+![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamcysec.474408138.issue.1)
 
 ### What I Do
@@ -16,7 +17,6 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 - 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
 - :snake: Im currently improving my Python skills
 - Im top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec)
-    - ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
