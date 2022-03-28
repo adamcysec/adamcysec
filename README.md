@@ -16,7 +16,7 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 **My Stuff:**
 - 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
 - :snake: Im currently improving my Python skills
-- Im top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec) 
+- I'm top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec) 
 
 </br>
 
