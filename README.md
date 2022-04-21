@@ -28,7 +28,7 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 
 :computer: **Overall TryHackMe Stats:**
 
-![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
+![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)(https://tryhackme.com/p/adaminfosec)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
