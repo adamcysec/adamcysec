@@ -34,8 +34,8 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 36 mins   ████████████████░░░░░░░░░   64.17 %
-Ruby     1 hr 27 mins    █████████░░░░░░░░░░░░░░░░   35.83 %
+Python   3 hrs 8 mins    █████████████████████████   99.94 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
