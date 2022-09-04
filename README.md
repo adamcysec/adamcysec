@@ -34,10 +34,10 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 <!--START_SECTION:waka-->
 
 ```text
-Python     2 hrs 39 mins   ███████████████████████▒░   92.97 %
-Markdown   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-HTML       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python     4 hrs 5 mins    ███████████████████████▓░   95.32 %
+Markdown   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+HTML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
