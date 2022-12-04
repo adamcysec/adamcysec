@@ -10,6 +10,7 @@
 ~~I currently work as a Cyber Security Analyst!~~
 
 ~~I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and Security News happening world wide.~~
+
 I currently work as a Cyber Threat Hunter!
 
 I help to protect networks by proactively hunting threats in the environemnt and creating detection rules.
