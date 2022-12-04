@@ -7,11 +7,14 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=adamcysec.474408138.issue.1)
 
 ### What I Do
-I currently work as a Cyber Security Analyst! 
+~~I currently work as a Cyber Security Analyst!~~
 
-I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and Security News happening world wide.  
+~~I help to protect networks by reviewing SIEM alerts, IDS events, Log messages, Vulnerability reports, and Security News happening world wide.~~
+I currently work as a Cyber Threat Hunter!
 
-I use scripting languages Python and PowerShell to help automate repetitive tasks.
+I help to protect networks by proactively hunting threats in the environemnt and creating detection rules.
+
+I use scripting languages Python and PowerShell to help automate repetitive tasks and problem solve.
 
 **My Stuff:**
 - 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
