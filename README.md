@@ -13,7 +13,7 @@
 
 I currently work as a Cyber Threat Hunter!
 
-I help to protect networks by proactively hunting threats in the environemnt and creating detection rules.
+I help to protect networks by proactively hunting threats in the environment and creating detection rules.
 
 I use scripting languages Python and PowerShell to help automate repetitive tasks and problem solve.
 
