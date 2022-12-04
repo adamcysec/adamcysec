@@ -18,7 +18,7 @@ I help to protect networks by proactively hunting threats in the environment and
 I use scripting languages Python and PowerShell to help automate repetitive tasks and problem solve.
 
 **My Stuff:**
-- 📝 I write articles on my [blog](https://adamcysec.github.io/blog/)
+- 📝 I write cybersecurity related articles on my [blog](https://adamcysec.github.io/blog/)
 - [MetaCTF](https://lookup.ace-t.mctf.io/?id=1007346) ACE-T level 7 Top 9% - 100+ challenges complete
 - I'm top 1% on [TryHackMe](https://tryhackme.com/p/adaminfosec) - 80+ rooms complete
 
