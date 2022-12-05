@@ -19,7 +19,7 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 
 **My Stuff:**
 - 📝 I write cybersecurity related articles on my [blog](https://adamcysec.github.io/blog/)
-- [MetaCTF](https://lookup.ace-t.mctf.io/?id=1007346) ACE-T Level 8 - Top 8% - 100+ challenges complete
+- [MetaCTF](https://lookup.ace-t.mctf.io/?id=1007346) ACE-T Level 8 - Top 7% - 100+ challenges complete
 - [TryHackMe](https://tryhackme.com/p/adaminfosec) Level 11 - Top 1% - 80+ rooms complete
 
 **My Certs:**
