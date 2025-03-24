@@ -36,7 +36,7 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 
 📊 **Detections Portfolio Pie Chart:**
 
-![My detections](images/detections_pi.png)
+![My detections](images/detections_pie.png)
 
 
 📈 **My Overall GitHub Stats:**
