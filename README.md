@@ -34,14 +34,9 @@ I use scripting languages Python and PowerShell to help automate repetitive task
 
 ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/adaminfosec.png)
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+📊 **Detections Portfolio Pie Chart:**
 
-```text
-No activity tracked
-```
 
-<!--END_SECTION:waka-->
 
 
 📈 **My Overall GitHub Stats:**
